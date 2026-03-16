@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Toluwa 👋
 
-<!--
-**devToluwa/devToluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux & DevOps Engineer based in Lagos, Nigeria.
 
-Here are some ideas to get you started:
+I build and automate enterprise Linux environments — multi-VM setups,
+Ansible provisioning, Nginx load balancing, Docker, and everything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Work With
+
+- **OS:** CentOS/RHEL, Ubuntu
+- **Automation:** Ansible, Bash Scripting
+- **Containers:** Docker, Docker Compose
+- **Web/Proxy:** Nginx (reverse proxy + load balancer)
+- **Database:** MariaDB, PostgreSQL
+- **Cloud:** AWS (EC2, IAM)
+- **Monitoring:** Prometheus, Grafana, Dynatrace
+- **Tools:** Git, VMware ESXi, ServiceNow
+
+---
+
+## 🔨 Featured Projects
+
+**[Enterprise Linux Labs](https://github.com/devToluwa/Enterprise-Linux-Labs)**
+Multi-VM CentOS environment with Nginx load balancing, MariaDB, and full Ansible automation
+
+**[Linux Company Server Simulation](https://github.com/devToluwa/HomeLabs001)**
+5-VM enterprise server simulation with defined roles and Ansible configuration management
+
+---
+
+## 📜 Certifications
+- LPI Linux Essentials (LPI 010-160)
+
+---
+
+## 📫 Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/toluwalope-oloba)
