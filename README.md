@@ -2,7 +2,7 @@
 
 Linux & DevOps Engineer based in Lagos, Nigeria.
 
-I build and automate enterprise Linux environments — multi-VM setups,
+I build and automate enterprise Linux environments with multi-VM setups,
 Ansible provisioning, Nginx load balancing, Docker, and everything in between.
 
 ---
