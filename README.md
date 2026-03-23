@@ -17,6 +17,7 @@ Ansible provisioning, Nginx load balancing, Docker, and everything in between.
 - **Cloud:** AWS (EC2, IAM)
 - **Monitoring:** Prometheus, Grafana, Dynatrace
 - **Tools:** Git, VMware ESXi, ServiceNow
+- **CI/CD:** Git Actions
 
 ---
 
