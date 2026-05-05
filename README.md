@@ -15,7 +15,7 @@ Ansible provisioning, Nginx load balancing, Docker, and everything in between.
 - **Web/Proxy:** Nginx (reverse proxy + load balancer)
 - **Database:** MariaDB, PostgreSQL
 - **Cloud:** AWS (EC2, IAM)
-- **Monitoring:** Prometheus, Grafana, Dynatrace
+- **Monitoring:** Prometheus, Grafana
 - **Tools:** Git, VMware ESXi, ServiceNow
 - **CI/CD:** Git Actions
 
