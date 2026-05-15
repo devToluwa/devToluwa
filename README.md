@@ -1,7 +1,6 @@
 # Hey, I'm Toluwa 👋
-Linux & DevOps Engineer based in Lagos, Nigeria.
-I build and automate enterprise Linux environments with multi-VM setups,
-Ansible provisioning, Nginx load balancing, Docker, and everything in between.
+DevOps Engineer based in Lagos, Nigeria.
+I automate infrastructure and build CI/CD pipelines, from Terraform-provisioned AWS environments to containerized deployments with Docker and GitHub Actions.
  
 ---
  
