@@ -23,7 +23,7 @@ Ansible provisioning, Nginx load balancing, Docker, and everything in between.
 
 ## 🔨 Featured Projects
 **[AWS Terraform VPC EC2 Setup](https://github.com/devToluwa/AWS-Terraform-VPC-EC2-Setup)**
-Provisioning an AWS VPC and EC2 instance using Terraform. This includes subnets, security groups, internet gateway, and remote state management.
+Automated AWS infrastructure deployment using Terraform, featuring VPC networking, EC2, and remote state.
 
 **[Jenkins CICD Pipeline](https://github.com/devToluwa/Jenkins-CICD-Pipeline)**
 Jenkins CI/CD pipeline for a Python Flask app. Automated install, test, and Docker build stages.
