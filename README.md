@@ -22,16 +22,16 @@ Ansible provisioning, Nginx load balancing, Docker, and everything in between.
 ---
 
 ## 🔨 Featured Projects
-**[AWS Terraform VPC EC2 Setup](https://github.com/devToluwa/AWS-Terraform-VPC-EC2-Setup)**
-Automated AWS infrastructure deployment using Terraform, featuring VPC networking, EC2, and remote state.
+**- [AWS Terraform VPC EC2 Setup](https://github.com/devToluwa/AWS-Terraform-VPC-EC2-Setup)**
+Automated AWS infrastructure deployment using Terraform, featuring VPC networking and an EC2 Instance.
 
-**[Jenkins CICD Pipeline](https://github.com/devToluwa/Jenkins-CICD-Pipeline)**
+**- [Jenkins CICD Pipeline](https://github.com/devToluwa/Jenkins-CICD-Pipeline)**
 Jenkins CI/CD pipeline for a Python Flask app. Automated install, test, and Docker build stages.
 
-**[GitHub Actions CICD for a Node.js App](https://github.com/devToluwa/GitHub-Actions-CICD-for-a-Node.js-App)**
+**- [GitHub Actions CICD for a Node.js App](https://github.com/devToluwa/GitHub-Actions-CICD-for-a-Node.js-App)**
 CI/CD pipeline for a Node.js app using GitHub Actions and Docker
 
-**[Enterprise Linux Labs](https://github.com/devToluwa/Enterprise-Linux-Labs)**
+**- [Enterprise Linux Labs](https://github.com/devToluwa/Enterprise-Linux-Labs)**
 Multi-VM CentOS environment with Nginx load balancing, MariaDB, and full Ansible automation
 
 ---
