@@ -19,15 +19,21 @@ I automate infrastructure and build CI/CD pipelines, from Terraform-provisioned 
  
 ## 🔨 Featured Projects
  
+**[Multi-Environment Deployment with GitHub Actions](https://github.com/devToluwa/Multi-Environment-Deployment-with-GitHub-Actions)**\
+Multi-environment deployment pipeline (dev → staging → prod) using GitHub Actions, Docker, and AWS ECR/ECS. Features environment-specific secrets, manual approval gates, and automated smoke tests.
+
+**[Terraform S3 Remote State](https://github.com/devToluwa/Terraform-S3-Remote-State)**\
+Terraform remote state backend using S3 for storage and DynamoDB for state locking, enabling safe team collaboration on shared infrastructure.
+
 **[AWS Terraform VPC EC2 Setup](https://github.com/devToluwa/AWS-Terraform-VPC-EC2-Setup)**\
 Automated AWS infrastructure deployment using Terraform by provisioning a custom VPC with subnets, security groups, and an EC2 instance from scratch.
- 
+
 **[Jenkins CICD Pipeline](https://github.com/devToluwa/Jenkins-CICD-Pipeline)**\
 End-to-end Jenkins CI/CD pipeline for a Python Flask app, with automated install, test, and Docker build stages across a multi-stage pipeline.
- 
+
 **[GitHub Actions CICD for a Node.js App](https://github.com/devToluwa/GitHub-Actions-CICD-for-a-Node.js-App)**\
 CI/CD pipeline for a Node.js app using GitHub Actions and Docker, automating build and container image delivery on every push.
- 
+
 **[Enterprise Linux Labs](https://github.com/devToluwa/Enterprise-Linux-Labs)**\
 Multi-VM CentOS environment with Nginx load balancing, MariaDB, and full Ansible automation across the entire stack.
  
