@@ -1,4 +1,4 @@
-# Hey, I'm Toluwa 👋
+# Hello, I'm Toluwa 👋
 DevOps Engineer based in Lagos, Nigeria.\
 I automate infrastructure and build CI/CD pipelines, from Terraform-provisioned AWS environments to containerized deployments with Docker and GitHub Actions.
  
